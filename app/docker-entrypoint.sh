@@ -5,7 +5,7 @@ VERSION=1.0.0
 
 # A file used to determine if/when this program has previously run.
 
-SENTINEL_FILE=/opt/senzing/docker-runs.log
+SENTINEL_FILE=/opt/senzing/docker-runs.sentinel
 
 # Return codes
 
